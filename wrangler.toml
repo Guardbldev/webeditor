@@ -1,0 +1,9 @@
+name = "webeditor"
+compatibility_date = "2025-11-08"
+
+[build]
+command = "npx open-next@latest build"
+
+[site]
+bucket = "./.open-next"
+entry_point = "./.open-next"
